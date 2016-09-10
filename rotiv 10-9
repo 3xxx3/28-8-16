@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,AMC
+http://83.78.191.43:2002
+#EXTINF:-1,SYFY
+http://83.78.191.43:2050/
+#EXTINF:-1,TVCINE 1
+http://83.78.191.43:2053/
+#EXTINF:-1,TVCINE 2
+http://83.78.191.43:2054
+#EXTINF:-1,TVCINE 3
+http://83.78.191.43:2055/
+#EXTINF:-1,TVCINE 4
+http://83.78.191.43:2056
+#EXTINF:-1,TVCINE 5
+http://83.78.191.43:2059/
+#EXTINF:-1,AXN HD
+http://83.78.191.43:2005
+#EXTINF:-1,AXN HD
+http://83.78.191.43:2065/
+#EXTINF:-1,CINEMUNDO
+http://83.78.191.43:2011/
+#EXTINF:0,Hollywood
+#EXTGRP:unsorted
+http://83.78.191.43:2025/
+#EXTINF:0,fox comedi
+http://83.78.191.43:2020
+#EXTINF:0,Sport tv1
+#EXTGRP:unsorted
+http://83.78.191.43:2047/
+#EXTINF:0,Sport tv1
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts
+#EXTINF:0,Sport tv2
+#EXTGRP:unsorted
+http://83.78.191.43:2048
+#EXTINF:0,Sport tv3
+http://83.78.191.43:2055
+#EXTINF:0,eurosport 2
+http://83.78.191.43:2019
+#EXTINF:0,motores
+http://83.78.191.43:2031
+#EXTINF:0,Porto CANAL
+#EXTGRP:unsorted
+rtsp://213.13.26.13:1935/live/portocanal
+#EXTINF:0,Porto CANAL
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts
+#EXTINF:0,Porto CANAL
+http://213.13.26.11:1935/live/portocanal/INSPIR@TION.m3u8
+.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts
+#EXTINF:0,sic radical
+http://83.78.191.43:2046
+#EXTINF:0,playboy
+#EXTGRP:unsorted
+http://83.78.191.43:2033/
